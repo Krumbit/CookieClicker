@@ -1,0 +1,4 @@
+name: CookieClickerPlugin
+version: '${project.version}'
+main: me.krumbit.cookieclickerplugin.CookieClickerPlugin
+author: Krumbit
